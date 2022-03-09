@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Halimcan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+#Hi 👋, I'm Halimcan</h1>
+
+## A passionate iOS Developer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
