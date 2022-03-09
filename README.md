@@ -1,4 +1,4 @@
-## Hi 👋, I'm Halimcan
+# Hi 👋, I'm Halimcan
 
 
 - 🌱 I’m currently learning Swift
