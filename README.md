@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Halimcan</h1>
-<h3 align="center">A passionate iOS Developer</h3>
+# Hi 👋, I'm Halimcan</h1>
+### A passionate iOS Developer</h3>
 
 - 🌱 I’m currently learning **Swift**
 
