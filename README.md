@@ -1,6 +1,6 @@
 # Hi 👋, I'm Halimcan
 
-###A passionate iOS Developer from İstanbul
+### A passionate iOS Developer from İstanbul
 
 - 🌱 I’m currently learning Swift
 
